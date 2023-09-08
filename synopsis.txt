@@ -1,0 +1,87 @@
+# PROJECT OBJECTIVES:
+
+01. A placement cell mobile application can help to automate many of the tasks involved in the placement process, such as collecting student data, scheduling interviews,registration, upcoming companies and sending out notifications. This can free up the time of the placement officers so that they can focus on other tasks.
+
+02. A placement mobile application can provide a platform for students to communicate with the placement officers and about their placement , upcoming drives, and any other questions or concerns they may have. This can help to improve the overall communication between students and the placement officers, which can lead to better placement outcomes.
+
+03. A placement mobile application can provide students with access to information about job opportunities, such as job postings, company profiles, and interview schedules. This can help students to stay informed about the latest job opportunities and to be prepared for interviews.
+
+04. A placement mobile application can track the placement progress of students, such as the number of interviews they have attended, the number of job offers they have received, and the companies they have been placed with. This information can be used to identify students who may need additional support or to track the overall performance of the placement program.
+
+05. This application also provides offcampus  job opportunities, and job openings other than those are coming oncampus. Students can search on the basic of their tech-stack and apply for the respective opening.
+
+
+
+#SYSTEM ARCHITECTURE:
+  
+(in reference pdf)
+
+#PROJECT OUTCOMES:
+
+01.  A placement mobile application can help to streamline the placement process, making it more efficient for both students and placement officers. The app can also help to improve transparency by providing students with real-time updates on their application status and by allowing placement officers to easily post job openings and manage their recruitment process.
+
+02. A placement mobile application can help to improve the student experience by making it easier for students to find and apply for jobs(both oncampus and offcampus), learn about different career options, and connect with placement officers.
+
+03. The app can provide students with a list of upcoming job openings that match their interests and qualifications.
+
+04.The app can allow students to apply for jobs directly from the app.
+
+05.The app can send students notifications about new job openings and interview opportunities.
+
+
+##PROEJECT SCOPE
+#(a) ARCHITECTURE: in reference pdf
+
+#(b) BUSSINESS SCOPE: 
+                    01.In the education domain: 
+                            A placement mobile application can be used to help students find internships and jobs(both oncampus and offcampus). The app can provide students with a list of upcoming job openings that match their interests and qualifications, allow them to apply for jobs directly from the app, and send them notifications about new job openings and interview opportunities.
+
+                    02.In the technology domain: 
+                            A placement mobile application can be used to help tech companies find software engineers, data scientists, and other IT professionals. The app can provide tech companies with a list of upcoming job openings that match their needs, allow them to post job openings, and manage their applicant pool. The app can also provide tech companies with data on applicant profiles and application trends. 
+
+#(c) PPODUCT FEATURES:
+                    01. student profile(personal info, academic , qualifications , etc)/.
+                    02. The app should allow users to search for job openings by keyword(tech-stack).
+                    03. job posting of upcoming company, including job title,job description,requirements,expected salary, eligibility criteria, etc
+                    04. keep track of application records,registration details, etc.
+                    05. Update the Shortlisted students and providing the interview schedule for their next rounds in the app.
+                    06. one open chat section where students can chat with placement officials for any query.
+                    07. student data privacy with 2 step verification.   
+                    08. The app should allow users to apply for jobs directly from the app.
+                    09. The app should send notifications to users about new job openings, interview          opportunities, and other important updates.
+                    10.The app should allow users to manage their profiles, including their contact information, education background, and skills.
+
+#(d)DEVELOPMENT ENVIRONMENT:
+            Language: React-native using (javascript or Typescript).
+            Technology: Frontend: React-native
+                        Backend : Nodejs , Expressjs
+                        Database: MongoDb
+            Platform :  Initially Android but Cross-Platform (in future).
+            Development Enivironment : Visual Studio Code (IDE) , Git and Github (Version Control System(VCS)).                  
+
+#(e) EXPERTISE REQUIRED:
+                Language: React-native using (javascript or Typescript).
+            Technology: Frontend: React-native
+                        Backend : Nodejs , Expressjs
+                        Database: MongoDb
+            Platform :  Initially Android but Cross-Platform (in future).
+            Development Enivironment : Visual Studio Code (IDE) , Git and Github (Version Control System(VCS)).                  
+
+#(f) CUSTOMER ENVIRONMENT:
+
+
+#(g) PROJECT SCHEDULE: Gantt Chart.
+
+#(h) PROJECT RISK AND MITIGATION PLAN: 
+                                01. Risk:
+                                        The application may be hacked or attacked by malicious users.
+                                    Mitigation: 
+                                        Implement security measures, such as data encryption and user authentication. Keep the application up to date with the latest security patches. Monitor the application for suspicious activity.
+
+                                02.Risk:
+
+                                   Mitigation:    
+
+
+#(i) HW/SW REQUIREMENTS:
+                        
